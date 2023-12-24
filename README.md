@@ -1,7 +1,6 @@
 # Jumping-Jack
-A personal Game I made to learn pygame and somw Game Dev basics.
+A personal Game I made to learn pygame and some Game Dev basics.
 
-To play, unzip the rar file and open game.exe.
 
 On the menu, use up and down arrow to navigate and press enter to select.
 
